@@ -19,7 +19,7 @@
 
 ---
 
-![Logo de DAW](./img/daw_logo.png)
+![Logo de DAW](./daw_logo.jpg)
 
 ---
 
